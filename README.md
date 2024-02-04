@@ -1,4 +1,4 @@
-##Idea: Exploratory Data Analysis (EDA) on Retail Sales Data
+## Idea: Exploratory Data Analysis (EDA) on Retail Sales Data
 
 
 
@@ -37,7 +37,7 @@ Learn to use data visualization for effective communication of insights.
 
 
 
-##Idea: Wine Quality Prediction
+## Idea: Wine Quality Prediction
 
 
 
